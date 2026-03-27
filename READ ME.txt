@@ -1,0 +1,29 @@
+Job Acceptance Prediction System
+A Machine Learning project that predicts whether a candidate will accept a job offer using academic performance, skills, experience, and interview outcomes.
+Key Features
+•	Predicts job acceptance (Placed / Not Placed) 
+•	Real-time prediction using Streamlit 
+•	Handles missing and inconsistent data 
+•	Interactive user interface 
+Dataset
+•	51,500 records 
+•	Includes academic scores, skills, experience, and interview metrics 
+Model
+•	Algorithm: Random Forest 
+•	Accuracy: ~88% 
+•	Optimized for better performance and reduced size 
+Insights
+•	Technical skills are the most important factor 
+•	Communication and skills match strongly influence placement 
+•	Experience is beneficial but not mandatory 
+Tech Stack
+•	Python, Pandas, NumPy 
+•	Scikit-learn 
+•	Matplotlib, Seaborn 
+•	Streamlit 
+Business Impact
+•	Improves hiring decisions 
+•	Reduces recruitment time 
+•	Minimizes offer rejection rates 
+Conclusion
+This project delivers an end-to-end ML solution for predicting job acceptance. It combines data preprocessing, feature engineering, and model optimization with a user-friendly Streamlit interface, enabling recruiters to make faster and more accurate hiring decisions.
